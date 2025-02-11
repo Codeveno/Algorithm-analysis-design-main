@@ -1,0 +1,206 @@
+Basic Concepts
+    Algorithm Definition
+        What is an algorithm?
+        Properties of algorithms (correctness, efficiency, etc.)
+
+    Pseudocode
+        Writing and understanding pseudocode
+
+    Time Complexity
+        Big-O, Big-Theta, and Big-Omega notations
+        Best-case, worst-case, and average-case analysis
+
+    Space Complexity
+        Memory usage analysis
+
+    Asymptotic Analysis
+        Dominant terms and constants
+        Comparing growth rates of functions
+
+    Mathematical Foundations
+        Summations and series
+        Recurrence relations
+        Logarithms and exponents
+
+Algorithm Design Techniques
+    Brute Force
+        Exhaustive search
+        Applications (e.g., linear search, bubble sort)
+
+    Divide and Conquer
+        Recursive problem-solving
+        Examples: Merge sort, quicksort, binary search
+
+    Greedy Algorithms
+        Greedy choice property
+        Examples: Huffman coding, activity selection, Dijkstra’s algorithm
+
+    Dynamic Programming
+        Overlapping subproblems and optimal substructure
+        Memoization and tabulation
+        Examples: Fibonacci, knapsack problem, longest common subsequence
+
+    Backtracking
+        Recursive exploration of solutions
+        Examples: N-queens, Sudoku solver, subset generation
+
+    Branch and Bound
+        Pruning search spaces
+        Examples: Traveling salesman problem (TSP), 0/1 knapsack
+
+Intermediate Concepts
+    Graph Algorithms
+        Breadth-First Search (BFS)
+        Depth-First Search (DFS)
+        Shortest path algorithms (Dijkstra, Bellman-Ford, Floyd-Warshall)
+        Minimum spanning tree algorithms (Kruskal, Prim)
+        Topological sorting
+        Strongly connected components (Kosaraju, Tarjan)
+
+    String Algorithms
+        Pattern matching (Naive, KMP, Rabin-Karp)
+        Longest common substring
+        Suffix arrays and suffix trees
+
+    Sorting Algorithms
+        Comparison-based sorts (quicksort, mergesort, heapsort)
+        Non-comparison sorts (counting sort, radix sort, bucket sort)
+
+    Searching Algorithms
+        Binary search
+        Interpolation search
+
+    Hashing
+        Hash functions
+        Collision resolution (chaining, open addressing)
+        Applications (e.g., hash tables, bloom filters)
+
+    Randomized Algorithms
+        Randomized quicksort
+        Monte Carlo and Las Vegas algorithms
+
+    Amortized Analysis
+        Aggregate method, accounting method, potential method
+        Examples: Dynamic arrays, Fibonacci heaps
+
+Advanced Concepts
+    Network Flow Algorithms
+        Ford-Fulkerson method
+        Edmonds-Karp algorithm
+        Maximum bipartite matching
+
+    Computational Geometry
+        Convex hull algorithms (Graham scan, Jarvis march)
+        Closest pair of points
+        Line intersection algorithms
+
+    Number-Theoretic Algorithms
+        Euclidean algorithm (GCD)
+        Modular arithmetic
+        Primality testing (Miller-Rabin, Sieve of Eratosthenes)
+
+    NP-Completeness
+        P vs. NP problem
+        NP-hard and NP-complete problems
+        Reduction techniques
+
+    Approximation Algorithms
+        Greedy approximation
+        Randomized approximation
+        Examples: Vertex cover, TSP
+
+    Parallel Algorithms
+        Divide and conquer in parallel
+        MapReduce framework
+
+    Online Algorithms
+        Competitive analysis
+        Examples: Paging, k-server problem
+
+    External Memory Algorithms
+        Sorting and searching in external memory
+        B-trees for disk-based storage
+
+Very Advanced Concepts
+    Quantum Algorithms
+        Grover’s search algorithm
+        Shor’s factoring algorithm
+
+    Streaming Algorithms
+        Counting distinct elements
+        Frequent items in data streams
+
+    Succinct Data Structures
+        Space-efficient representations
+        Examples: Succinct trees, rank/select queries
+
+    Cache-Oblivious Algorithms
+        Optimized for hierarchical memory systems
+        Examples: Cache-oblivious sorting, matrix multiplication
+
+    Probabilistic Data Structures
+        Bloom filters
+        Count-Min Sketch
+        HyperLogLog
+
+    Parameterized Algorithms
+        Fixed-parameter tractability
+        Kernelization techniques
+
+    Online Learning Algorithms
+        Multi-armed bandits
+        Regret minimization
+
+    Distributed Algorithms
+        Consensus algorithms (Paxos, Raft)
+        Leader election
+        Distributed graph algorithms
+
+    Cryptographic Algorithms
+        Symmetric and asymmetric encryption
+        Hash functions (SHA, MD5)
+        Digital signatures
+
+    Machine Learning Algorithms
+        Supervised learning (linear regression, decision trees)
+        Unsupervised learning (k-means, PCA)
+        Reinforcement learning (Q-learning, policy gradients)
+
+Algorithm Analysis Tools
+    Recurrence Relations
+        Master theorem
+        Substitution method
+        Recursion tree method
+
+    Amortized Analysis
+        Aggregate method
+        Accounting method
+        Potential method
+
+    Probabilistic Analysis
+        Expected case analysis
+        Randomized algorithms
+
+    Lower Bounds
+        Decision trees
+        Information-theoretic arguments
+
+    Reductions
+        Problem transformations
+        Proving NP-completeness
+
+Applications of Algorithms
+    Real-World Applications
+        Search engines (PageRank)
+        Social networks (community detection)
+        Bioinformatics (sequence alignment)
+
+    Optimization Problems
+        Linear programming
+        Integer programming
+        Simplex algorithm
+
+    Game Theory
+        Minimax algorithm
+        Alpha-beta pruning
+        Nash equilibrium
