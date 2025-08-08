@@ -1,4 +1,4 @@
- ﻿# Algorithm-analysis-design
+ ## Algorithm-analysis-design
 
 
 # 1. Searching Algorithms
@@ -182,8 +182,6 @@ Push–Relabel Algorithm
 Capacity Scaling Algorithm
 
 Minimum-Cost Maximum Flow
-
-
 
 # 9. Graph Connectivity and Components
 Tarjan’s Strongly Connected Components Algorithm
