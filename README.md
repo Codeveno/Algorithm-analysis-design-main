@@ -1,7 +1,7 @@
 ﻿# Algorithm-analysis-design
 
 
-1. Searching Algorithms
+##1. Searching Algorithms
 Linear Search
 
 Binary Search
@@ -24,7 +24,7 @@ Sparse Table Search
 
 
 
-2. Sorting Algorithms
+##2. Sorting Algorithms
 Bubble Sort
 
 Optimized Bubble Sort
@@ -44,7 +44,6 @@ Quick Sort (Lomuto)
 Quick Sort (Hoare)
 
 Randomized Quick Sort
-
 
 3-Way Quick Sort
 
@@ -82,7 +81,7 @@ Flash Sort
 
 
 
-3. Basic Data Structure Algorithms
+##3. Basic Data Structure Algorithms
 Stack Push/Pop
 
 Queue Enqueue/Dequeue
@@ -111,7 +110,7 @@ Path Compression in Union-Find
 
 
 
-4. Hashing Algorithms
+##4. Hashing Algorithms
 Separate Chaining Hash Table
 
 Linear Probing
@@ -132,7 +131,7 @@ Extendible Hashing
 
 
 
-5. Graph Traversal Algorithms
+##5. Graph Traversal Algorithms
 Breadth-First Search (BFS)
 
 Depth-First Search (DFS) Recursive
@@ -164,7 +163,7 @@ ALT Algorithm (A*, Landmarks, Triangle inequality)
 
 
 
-7. Graph Minimum Spanning Tree Algorithms
+##7. Graph Minimum Spanning Tree Algorithms
 Prim’s Algorithm
 
 Kruskal’s Algorithm
@@ -186,7 +185,7 @@ Minimum-Cost Maximum Flow
 
 
 
-9. Graph Connectivity and Components
+##9. Graph Connectivity and Components
 Tarjan’s Strongly Connected Components Algorithm
 
 Kosaraju’s Algorithm
@@ -199,7 +198,7 @@ Articulation Points Algorithm
 
 
 
-10. Eulerian/Hamiltonian Graph Algorithms
+##10. Eulerian/Hamiltonian Graph Algorithms
 Hierholzer’s Algorithm (Eulerian Path/Circuit)
 
 Hamiltonian Path Finder (Backtracking)
@@ -208,7 +207,7 @@ Held–Karp Algorithm (Hamiltonian Cycle)
 
 
 
-11. Tree Algorithms
+##11. Tree Algorithms
 Tree Traversal (Preorder, Inorder, Postorder)
 
 Level Order Traversal
@@ -239,7 +238,7 @@ Cartesian Tree Build
 
 
 
-12. String Matching Algorithms
+##12. String Matching Algorithms
 Naive String Matching
 
 Knuth–Morris–Pratt (KMP) Algorithm
@@ -258,7 +257,7 @@ Shift-Or/Shift-And Algorithm
 
 
 
-13. String Processing Algorithms
+##13. String Processing Algorithms
 Suffix Array Construction (Naive)
 
 Suffix Array (Prefix Doubling)
@@ -283,7 +282,7 @@ Rolling Hash
 
 
 
-14. Dynamic Programming Algorithms
+##14. Dynamic Programming Algorithms
 Fibonacci (Top-down)
 
 Fibonacci (Bottom-up)
@@ -322,7 +321,7 @@ Catalan Number Computation
 
 
 
-15. Number Theory Algorithms
+##15. Number Theory Algorithms
 Euclidean Algorithm (GCD)
 
 Extended Euclidean Algorithm
@@ -359,7 +358,7 @@ Gaussian Elimination
 
 
 
-16. Computational Geometry Algorithms
+##16. Computational Geometry Algorithms
 Graham’s Scan (Convex Hull)
 
 Jarvis March (Convex Hull)
@@ -386,7 +385,7 @@ Polygon Triangulation (Ear Clipping)
 
 
 
-17. Cryptographic Algorithms
+##17. Cryptographic Algorithms
 Caesar Cipher
 
 Vigenère Cipher
@@ -427,7 +426,7 @@ Salsa20 Stream Cipher
 
 
 
-18. Compression Algorithms
+##18. Compression Algorithms
 Run-Length Encoding (RLE)
 
 Huffman Coding
@@ -448,7 +447,7 @@ Move-to-Front Transform
 
 
 
-19. Machine Learning Core Algorithms
+##19. Machine Learning Core Algorithms
 K-Means Clustering
 
 K-Medoids Clustering
@@ -483,7 +482,7 @@ Multi-Layer Perceptron (Backpropagation)
 
 
 
-20. Game Theory and AI Search Algorithms
+##20. Game Theory and AI Search Algorithms
 Minimax Algorithm
 
 Minimax with Alpha–Beta Pruning
@@ -506,7 +505,7 @@ Null Move Pruning
 
 
 
-21. Scheduling Algorithms
+##21. Scheduling Algorithms
 First Come First Serve (FCFS) Scheduling
 
 Shortest Job First (SJF) Scheduling
@@ -535,7 +534,7 @@ Least Laxity First Scheduling
 
 
 
-22. Parallel Algorithms
+##22. Parallel Algorithms
 Parallel Prefix Sum (Scan)
 
 Parallel Matrix Multiplication
@@ -558,7 +557,7 @@ Work–Stealing Scheduling
 
 
 
-23. Distributed Algorithms
+##23. Distributed Algorithms
 Bully Election Algorithm
 
 Ring Election Algorithm
@@ -585,7 +584,7 @@ Byzantine Fault Tolerance Algorithm
 
 
 
-24. Advanced Graph Algorithms
+##24. Advanced Graph Algorithms
 Transitive Closure (Floyd–Warshall variant)
 
 Suurballe’s Algorithm (Disjoint Paths)
@@ -612,7 +611,7 @@ Clique Percolation Method
 
 
 
-25. Advanced Dynamic Programming
+##25. Advanced Dynamic Programming
 Bitmask Dynamic Programming
 
 Digit Dynamic Programming
@@ -635,7 +634,7 @@ DP with Meet-in-the-Middle
 
 
 
-26. Advanced Number Theory
+##26. Advanced Number Theory
 Tonelli–Shanks Algorithm (Square Root Modulo Prime)
 
 Baby-Step Giant-Step Discrete Logarithm
@@ -664,7 +663,7 @@ Chinese Remainder with Garner’s Algorithm
 
 
 
-27. Text Compression and Processing
+##27. Text Compression and Processing
 Arithmetic Coding (Static)
 
 Arithmetic Coding (Adaptive)
@@ -683,7 +682,7 @@ bzip2 Compression (BWT + Huffman)
 
 
 
-28. Data Mining and Pattern Discovery
+##28. Data Mining and Pattern Discovery
 Apriori Algorithm (Association Rules)
 
 FP-Growth Algorithm
@@ -710,7 +709,7 @@ Viterbi Algorithm
 
 
 
-29. Neural Network and Deep Learning Algorithms
+##29. Neural Network and Deep Learning Algorithms
 Perceptron Learning Algorithm
 
 Backpropagation Algorithm
@@ -735,7 +734,7 @@ Batch Normalization Algorithm
 
 
 
-30. Bioinformatics Algorithms
+##30. Bioinformatics Algorithms
 Needleman–Wunsch Sequence Alignment
 
 Smith–Waterman Local Sequence Alignment
@@ -756,7 +755,8 @@ MAFFT Multiple Sequence Alignment
 
 ClustalW Multiple Sequence Alignment
 
-31. Computational Geometry Advanced
+
+##31. Computational Geometry Advanced
 Chan’s Algorithm (Convex Hull)
 
 QuickHull Algorithm
@@ -781,7 +781,7 @@ Voronoi Diagram Lloyd’s Relaxation
 
 
 
-32. Cryptographic Protocol Algorithms
+##32. Cryptographic Protocol Algorithms
 Merkle–Damgård Construction
 
 HMAC (Hash-Based Message Authentication Code)
@@ -804,7 +804,7 @@ Fiat–Shamir Identification Scheme
 
 Oblivious Transfer Protocol
 
-33. Randomized and Probabilistic Algorithms
+##33. Randomized and Probabilistic Algorithms
 Reservoir Sampling
 
 Randomized Quick Sort
@@ -827,7 +827,7 @@ Skip List Randomized Search
 
 
 
-34. External Memory and Big Data Algorithms
+##34. External Memory and Big Data Algorithms
 External Merge Sort
 
 External Quick Sort
@@ -862,7 +862,7 @@ Facility Location Greedy Approximation
 Knapsack Fully Polynomial-Time Approximation Scheme (FPTAS)
 
 
-36. Advanced Matrix and Linear Algebra Algorithms
+##36. Advanced Matrix and Linear Algebra Algorithms
 LU Decomposition
 
 Cholesky Decomposition
@@ -883,7 +883,7 @@ Conjugate Gradient Method
 
 
 
-37. Optimization Algorithms
+##37. Optimization Algorithms
 Simplex Method (Linear Programming)
 
 Revised Simplex Method
@@ -919,3 +919,4 @@ Cuckoo Search Algorithm
 Whale Optimization Algorithm
 
 Grey Wolf Optimizer
+
